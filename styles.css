@@ -1,0 +1,36 @@
+body {
+background-color: #badda7;
+color: #807386;
+font-family: Barlow, Futura, Arial, Helvetica, sans-serif;
+font-size: 33px;
+font-weight: 100;
+}
+
+main {
+	background-color: #5ADB9D;
+}
+
+main a {
+	color: #485C52;
+	text-decoration: none;
+}
+
+main a:hover { 
+	color: #BA72DB;
+}
+
+img.detail {
+width: 600px;
+}
+
+img.installation {
+width: 400px;
+}
+
+footer {
+background-color: ##48847B;
+}
+
+footer h1 {
+font-size: 13px;
+}
